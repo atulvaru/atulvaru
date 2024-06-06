@@ -1,4 +1,4 @@
-# Hello, devs! 👋
+# Hello! 👋
 <a href="https://github.com/atulvaru">
   <img src="https://komarev.com/ghpvc/?username=atulvaru&style=flat&color=blue" alt=""/>
 </a>
