@@ -49,7 +49,7 @@ You can find me on various platforms:
 
 <div id="badges">
  	<a href='https://www.linkedin.com/in/atul-kumar-75038920a/' target="_blank">
-		<img alt='linkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=linkedIn&logoColor=0A66C2&labelColor=FFE5E5&color=0A66C2'/>
+		<img alt='linkedIn'  target="_blank" src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=linkedIn&logoColor=0A66C2&labelColor=FFE5E5&color=0A66C2'/>
 	</a>
 <!--   <a href='https://www.instagram.com/musharraf008"' target="_blank">
 		<img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=flat&logo=Instagram&logoColor=FF5151&labelColor=FFE5E5&color=FF5151'/>
